@@ -28,5 +28,6 @@
 	"caret_style": "phase",
 	"wide_caret": true,
 	"save_on_focus_lost": true,
-	"open_files_in_new_window": false
+	"open_files_in_new_window": false,
+	"detect_slow_plugins": false
 }
